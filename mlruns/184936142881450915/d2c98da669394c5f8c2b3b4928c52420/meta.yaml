@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/184936142881450915/d2c98da669394c5f8c2b3b4928c52420/artifacts
+end_time: 1730297231497
+entry_point_name: ''
+experiment_id: '184936142881450915'
+lifecycle_stage: active
+run_id: d2c98da669394c5f8c2b3b4928c52420
+run_name: efficient-moth-456
+run_uuid: d2c98da669394c5f8c2b3b4928c52420
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730297224245
+status: 3
+tags: []
+user_id: Kranthi Kiran
